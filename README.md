@@ -11,3 +11,36 @@ Excel's powerful Pivot Table feature played a crucial role in the analysis by of
 
 Furthermore, Excel's flexibility in building dashboards allowed me to construct a comprehensive and interactive visualization tool for the analysis. The familiarity of Excel among users ensures that the generated insights can be easily shared and understood by a wider audience. By leveraging Excel in this project, I aimed to harness the power of its analytical and visualization capabilities, including the dynamic capabilities of Pivot Tables, to deliver a compelling and accessible analysis of the marketing campaign dataset, ultimately guiding strategic decisions for enhancing product purchases.
 
+
+# Step by step data analysis
+
+## Data Preparation
+
+#### Dataset Cleaning
+#### Handling Missing Data
+#### Assigning Data Types to Columns
+
+## Exploratory Data Analysis (EDA)
+
+#### Analysis of Customer Income
+#### Examination of Customer Education Levels
+#### Evaluation of Customer Spending Habits
+#### Insights into Purchase Behavior
+
+## Data Visualization
+
+#### Utilizing Excel Charts and Graphs
+#### Pivot Tables for Dynamic Analysis
+#### Creating Visual Representations of Key Questions
+
+## Dashboard Creation
+
+#### Building a Comprehensive Analysis Dashboard
+#### Slicers
+
+## Conclusion
+
+#### Focus on the customers who are Absurd and Graduated, who are Widow and did Masters,   who are Alone and YOLO and did Phd
+
+
+
