@@ -44,6 +44,8 @@ Furthermore, Excel's flexibility in building dashboards allowed me to construct 
 
 # Screenshot
 
+C:\Users\Kaushal\OneDrive\Pictures\Screenshots\Screenshot 2024-02-19 100200.png
+
 ![Screenshot 2024-02-18 164157](https://github.com/KaushalKshirsagar/Excel-Projects/assets/83549131/2cca720b-6c3f-4a51-872c-7d2a44cd607e)
 
 
