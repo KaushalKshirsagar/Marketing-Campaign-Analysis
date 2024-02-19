@@ -46,8 +46,6 @@ Furthermore, Excel's flexibility in building dashboards allowed me to construct 
 
 ![Screenshot 2024-02-19 100200](https://github.com/KaushalKshirsagar/Marketing-Campaign-Analysis/assets/83549131/0b393938-dfa5-4e46-9b5a-03601db91f67)
 
-![Screenshot 2024-02-18 164157](https://github.com/KaushalKshirsagar/Excel-Projects/assets/83549131/2cca720b-6c3f-4a51-872c-7d2a44cd607e)
-
 
 
 
