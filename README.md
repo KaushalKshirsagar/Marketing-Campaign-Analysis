@@ -44,7 +44,7 @@ Furthermore, Excel's flexibility in building dashboards allowed me to construct 
 
 # Screenshot
 
-![Screenshot 2024-02-20 195603](https://github.com/KaushalKshirsagar/Marketing-Campaign-Analysis/assets/83549131/2a8d29ed-bc6a-4139-9a96-7e4e51dd0b39)
+![Screenshot 2024-02-20 201705](https://github.com/KaushalKshirsagar/Marketing-Campaign-Analysis/assets/83549131/54e85fcc-681f-4f0e-9572-d8045b7c9d9f)
 
 
 
