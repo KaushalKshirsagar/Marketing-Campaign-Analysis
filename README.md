@@ -37,6 +37,8 @@ Furthermore, Excel's flexibility in building dashboards allowed me to construct 
 
 #### Building a Comprehensive Analysis Dashboard
 #### Slicers
+#### Macros
+#### VBA
 
 ## Conclusion
 
@@ -45,6 +47,8 @@ Furthermore, Excel's flexibility in building dashboards allowed me to construct 
 # Screenshot
 
 ![Screenshot 2024-02-20 201705](https://github.com/KaushalKshirsagar/Marketing-Campaign-Analysis/assets/83549131/54e85fcc-681f-4f0e-9572-d8045b7c9d9f)
+![Screenshot 2024-02-20 201749](https://github.com/KaushalKshirsagar/Marketing-Campaign-Analysis/assets/83549131/5ac4176f-f4e7-4cbb-aa2a-05b5aa7e4939)
+
 
 
 
